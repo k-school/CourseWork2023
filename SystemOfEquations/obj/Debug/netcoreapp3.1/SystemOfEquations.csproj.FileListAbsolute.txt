@@ -1,0 +1,13 @@
+D:\Курсовая 1 курс\SystemOfEquations\bin\Debug\netcoreapp3.1\SystemOfEquations.exe
+D:\Курсовая 1 курс\SystemOfEquations\bin\Debug\netcoreapp3.1\SystemOfEquations.deps.json
+D:\Курсовая 1 курс\SystemOfEquations\bin\Debug\netcoreapp3.1\SystemOfEquations.runtimeconfig.json
+D:\Курсовая 1 курс\SystemOfEquations\bin\Debug\netcoreapp3.1\SystemOfEquations.runtimeconfig.dev.json
+D:\Курсовая 1 курс\SystemOfEquations\bin\Debug\netcoreapp3.1\SystemOfEquations.dll
+D:\Курсовая 1 курс\SystemOfEquations\bin\Debug\netcoreapp3.1\SystemOfEquations.pdb
+D:\Курсовая 1 курс\SystemOfEquations\obj\Debug\netcoreapp3.1\SystemOfEquations.csprojAssemblyReference.cache
+D:\Курсовая 1 курс\SystemOfEquations\obj\Debug\netcoreapp3.1\SystemOfEquations.AssemblyInfoInputs.cache
+D:\Курсовая 1 курс\SystemOfEquations\obj\Debug\netcoreapp3.1\SystemOfEquations.AssemblyInfo.cs
+D:\Курсовая 1 курс\SystemOfEquations\obj\Debug\netcoreapp3.1\SystemOfEquations.csproj.CoreCompileInputs.cache
+D:\Курсовая 1 курс\SystemOfEquations\obj\Debug\netcoreapp3.1\SystemOfEquations.dll
+D:\Курсовая 1 курс\SystemOfEquations\obj\Debug\netcoreapp3.1\SystemOfEquations.pdb
+D:\Курсовая 1 курс\SystemOfEquations\obj\Debug\netcoreapp3.1\SystemOfEquations.genruntimeconfig.cache

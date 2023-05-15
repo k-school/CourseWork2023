@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xb/b+2FzW3KeoI1DX+gqWLRl0jfMPaYlLNXpXIGdAqneFhrA6tejndWBd4UZCsn2Cl9lGOL+fQyPdLlrt8nNWA==",
+  "success": true,
+  "projectFilePath": "D:\\Курсовая 1 курс\\SystemOfEquations\\SystemOfEquations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ksyusha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
